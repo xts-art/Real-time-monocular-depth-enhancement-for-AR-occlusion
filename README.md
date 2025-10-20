@@ -45,7 +45,7 @@ The goal is to achieve **smoother**, **more stable**, and **efficient** depth ma
 
 **Hardware:**
 - Google Colab Pro (T4 GPU)  
-- Local: RTX 3060 laptop GPU
+- Local: RTX 4080 GPU
 
 ---
 
