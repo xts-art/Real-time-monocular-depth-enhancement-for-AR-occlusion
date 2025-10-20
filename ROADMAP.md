@@ -99,7 +99,7 @@ Include side-by-side comparison visuals and code documentation.
 ### **W9 · Dec 22 – Dec 27**
 Final demo recording, repository cleanup, and presentation slides.  
 Submit final version for grading (midterm + final).  
-**Owner:** Artyom Tsay  
+**Owner:** Artyom Say  
 **Deliverable:** Demo video, slides, and GitHub repo submission.  
 **Status:** Planned
 
